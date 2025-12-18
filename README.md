@@ -1,15 +1,19 @@
 # Business Sales Analytics
 
-## Objective
-Analyze sales data to identify revenue trends, high-performing products, and potential business risks.
+## Business Objective
+To analyze historical sales data and identify revenue trends, seasonal patterns, and high-performing products to support business decision-making.
 
-## Tools Used
+## Tools & Technologies
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Jupyter Notebook
 
-## Key Insights
-- Identified monthly sales trends and peak revenue periods.
-- Analyzed product-level performance to highlight top and low-performing items.
-- Provided data-driven insights to support business decision-making.
+## Key Business Insights
+- Identified peak sales months and seasonal demand patterns across regions.
+- Analyzed product-level performance to highlight high-revenue and low-performing items.
+- Combined multiple monthly datasets into a single analytical view for better reporting.
+
+## Outcome
+This analysis helps businesses understand sales behavior and make data-driven decisions related to inventory planning and revenue optimization.
